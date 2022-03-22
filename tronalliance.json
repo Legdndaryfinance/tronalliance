@@ -9,6 +9,14 @@
     },
     "tokens": [
         {
+      "symbol": "LGF",
+      "address": "TD4bVgcwj3FRbmAo283HxNvqZvY7T3uD8k",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Legendary Finance",
+      "logoURI": "https://www.linkpicture.com/q/IMG1645697294176.png"
+    }
+        {
             "symbol": "USDT",
             "name": "Tether USD",
             "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
